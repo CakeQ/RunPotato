@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-3FAC691B4C2858B84C42C19BBCB1C256_0000</CrashGUID>
+<ProcessId>7768</ProcessId>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<IsEnsure>false</IsEnsure>
+<IsAssert>true</IsAssert>
+<CrashType>Assert</CrashType>
+<SecondsSinceStart>643</SecondsSinceStart>
+<GameName>UE4-RunPotato</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.13.2-3172292+++UE4+Release-4.13</EngineVersion>
+<CommandLine>&quot;H:/Documents/GitHub/RunPotato/RunPotato.uproject&quot;-EpicPortal </CommandLine>
+<LanguageLCID>2057</LanguageLCID>
+<AppDefaultLocale>en_GB</AppDefaultLocale>
+<IsUE4Release>true</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files (x86)/Epic Games/4.13/</RootDir>
+<MachineId>093842394CC902A5C091708561D94D15</MachineId>
+<EpicAccountId>343a29605e6847c39be881812467364e</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<ErrorMessage>Fatal error: [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Templates\Casts.cpp] [Line: 11] &nl;Cast of nullptr to Object failed&nl;</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<CrashReporterMessage></CrashReporterMessage>
+<Misc.NumberOfCores>4</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>      Intel(R) Xeon(R) CPU E5-1620 v2 @ 3.70GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA Quadro K4000</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 7</Misc.OSVersionMajor>
+<Misc.OSVersionMinor>Service Pack 1</Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>17100095488</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>8796092891136</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>11028439040</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>8793420423168</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>1263906816</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>1272573952</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>1904263168</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>2025308160</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+</FGenericCrashContext>
